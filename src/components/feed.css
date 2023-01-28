@@ -1,0 +1,8 @@
+.feed {
+  margin-top: 1em;
+}
+.feed > .post {
+  border: solid 1px #eee;
+  margin-bottom: 0.5em;
+  padding: 2em;
+}
